@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holar/static/css/main.fd1c1a9d.css",
+    "main.js": "/holar/static/js/main.d588bfea.js",
+    "static/js/787.6686d0bc.chunk.js": "/holar/static/js/787.6686d0bc.chunk.js",
+    "index.html": "/holar/index.html",
+    "main.fd1c1a9d.css.map": "/holar/static/css/main.fd1c1a9d.css.map",
+    "main.d588bfea.js.map": "/holar/static/js/main.d588bfea.js.map",
+    "787.6686d0bc.chunk.js.map": "/holar/static/js/787.6686d0bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1c1a9d.css",
+    "static/js/main.d588bfea.js"
+  ]
+}
